@@ -1,6 +1,6 @@
 # BackUps
 
-![BackUps — Cinema 4D Plugin](backups-cover.png)
+![BackUps — Cinema 4D Plugin](assets/backups-cover.png)
 
 **BackUps** is a Cinema 4D plugin for moving objects and complete hierarchies
 into a managed storage container inside the current scene. It can disable the
