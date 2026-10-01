@@ -57,8 +57,7 @@ build may be required when Cinema 4D changes its embedded Python version.
    BackUps/
    ├── BackUps.pypv
    └── res/
-       └── icons/
-           └── backups.png
+       └── backups.png
    ```
 
 4. Restart Cinema 4D.
