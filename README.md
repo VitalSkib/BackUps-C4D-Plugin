@@ -144,6 +144,12 @@ Please do not upload confidential production scenes.
 
 ## Version History
 
+### 1.0.1
+
+- Fixed rollback so it executes only after the corresponding undo state has been closed with a single `EndUndo()` before `DoUndo()`.
+- Prevented the BackUps command from re-adding objects that are already contained in any existing BackUps container.
+- Replaced the custom node-alive check with Cinema 4D's native `IsAlive()` method.
+
 ### 1.0.0
 
 - Initial public test release.
